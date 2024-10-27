@@ -5,7 +5,7 @@
 ### Descrição Geral
 Este projeto tem como objetivo criar um website para a clínica veterinária PetLife. O site foi desenvolvido utilizando HTML, CSS e JavaScript, com o intuito de fornecer informações claras e completas sobre os serviços oferecidos pela clínica, além de facilitar a interação com os clientes.
 
-**⚠️Observação:**Este é um site fícticio.
+** ⚠️Observação: **Este é um site fícticio.
 
 ### 📃Funcionalidades
 * **Página inicial:** Apresenta um banner chamativo com informações sobre a clínica, um botão para agendar consultas e um call to action para conhecer a clínica.
